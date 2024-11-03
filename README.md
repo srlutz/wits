@@ -7,6 +7,7 @@ Please download the R programming language (https://cran.rstudio.com/). We recom
 #### Running WITS
 First, browse to the respective folder, where you installed the toolbox. Go to ´\src…´ and load and execute the main script in RStudio: ´main_script_0_7.R´. 
 The folder setup of the example must be kept as is, simply changing the local host name to the main folder 
+
 folder<-c("C:/exampleuser/exampleuser/exampleWITS/exampleWITSversion/") <-- put here your local host name.
 
 To run the script, click on "Source." Pop-up windows will appear, allowing you to customize your preferences for running the script. Once you've selected your options, click "OK" to proceed with the next steps. 
