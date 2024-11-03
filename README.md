@@ -16,3 +16,5 @@ Please continue selecting your options in the following windows, adjust them acc
 The results of successful model executions are stored in ´\results…´. Each results folder will contain multiple runs. A total of up to 10 runs can be performed. In addition to the individual run folders, a summary text file will be generated, providing a summary of the results. The output figures are also stored in the results folder.
 
 The toolbox provides a basic graphical output for ad-hoc visual evaluation of the model results, but the users are encouraged to create their own graphical output once satisfied with the results. The raw data of the simulated output is stored in ´.txt-file format´.   
+
+See folder ./docs for more detailed instructions in the beginner's guide. 
