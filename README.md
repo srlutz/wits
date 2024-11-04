@@ -18,3 +18,5 @@ The results of successful model executions are stored in ´\results…´. Each r
 The toolbox provides a basic graphical output for ad-hoc visual evaluation of the model results, but the users are encouraged to create their own graphical output once satisfied with the results. The raw data of the simulated output is stored in ´.txt-file format´.   
 
 See folder ./docs for more detailed instructions in the beginner's guide. 
+
+Cite the code: [![DOI](https://zenodo.org/badge/876698880.svg)](https://doi.org/10.5281/zenodo.14036931)
